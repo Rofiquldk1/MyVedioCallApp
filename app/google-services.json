@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "1012043683721",
+    "firebase_url": "https://vediocallapp.firebaseio.com",
+    "project_id": "vediocallapp",
+    "storage_bucket": "vediocallapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012043683721:android:0aa7d704437bd85d573358",
+        "android_client_info": {
+          "package_name": "com.example.mycallapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012043683721-0uv41v5sjm4ehh353d8rno4uol5aghcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASJkXZaLAH9DMXpFdV4ElSQd6-2BeCIbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012043683721-0uv41v5sjm4ehh353d8rno4uol5aghcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012043683721:android:241ff4bb2b577dba573358",
+        "android_client_info": {
+          "package_name": "com.example.vediocall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012043683721-i3j9q46ifratkljko992v8qrb0bnpj1m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vediocall",
+            "certificate_hash": "c318140faac7da86759ea4d3a2161af499ce52fe"
+          }
+        },
+        {
+          "client_id": "1012043683721-0uv41v5sjm4ehh353d8rno4uol5aghcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASJkXZaLAH9DMXpFdV4ElSQd6-2BeCIbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012043683721-0uv41v5sjm4ehh353d8rno4uol5aghcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012043683721:android:e852ea3c74984f34573358",
+        "android_client_info": {
+          "package_name": "com.example.vediocallapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012043683721-ni86ukl9ii0crkulva06bho89qtvu13o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vediocallapp",
+            "certificate_hash": "c318140faac7da86759ea4d3a2161af499ce52fe"
+          }
+        },
+        {
+          "client_id": "1012043683721-0uv41v5sjm4ehh353d8rno4uol5aghcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASJkXZaLAH9DMXpFdV4ElSQd6-2BeCIbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012043683721-0uv41v5sjm4ehh353d8rno4uol5aghcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
